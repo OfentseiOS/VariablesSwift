@@ -7,13 +7,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+//To use variables we need to declare them first.
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
+var str = "Hello, Swift"
 
-
-}
 
